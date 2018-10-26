@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My News App(Bgangu)</string>
+    <string name="no_active_network">There is no active network on your Device</string>
+    <string name="no_news">No news were found</string>
+</resources>
